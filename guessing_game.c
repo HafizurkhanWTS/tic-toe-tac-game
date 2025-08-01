@@ -24,7 +24,7 @@ int main(){
         }
     }while (guess != random);
     {
-        printf("thanks for plying ...!!!");
+        // printf("thanks for plying ...!!!");
        
     }
    return 0; 
